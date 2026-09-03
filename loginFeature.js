@@ -11,3 +11,9 @@ const login = (username) => {
 const mobin = 'Admin'
 
 const newMeow = 'meowwwwwwwwwwwwwwwwwww'
+
+const count = 0
+
+function counter (){
+    count++
+}
