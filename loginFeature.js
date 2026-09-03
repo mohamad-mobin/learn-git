@@ -6,3 +6,6 @@ const login = (username) => {
         
     }
 }
+
+
+const mobin = 'Admin'
