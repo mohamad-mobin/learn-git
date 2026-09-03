@@ -9,3 +9,5 @@ const login = (username) => {
 
 
 const mobin = 'Admin'
+
+const newMeow = 'meowwwwwwwwwwwwwwwwwww'
