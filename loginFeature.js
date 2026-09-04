@@ -17,3 +17,13 @@ const count = 0
 function counter (){
     count++
 }
+
+
+function meowing (){
+    
+}
+
+
+function newMeow (){
+    
+}
