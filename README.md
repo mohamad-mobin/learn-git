@@ -8,7 +8,7 @@ my name is mobin
 inline `block`
 
 
-```
+```javascript
 const mobin = 'amin'
 
 let object = {
