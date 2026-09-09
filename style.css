@@ -6,19 +6,3 @@ h1{
     background: #666;
 }
 
-.newBox{
-    background: #000;
-    color: white;
-    border: 4px dotted ;
-    padding: 50px;
-    border-radius: 50px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 100px;
-    height: 100px;
-}
-.meow{
-    background: #000;
-    position: relative;
-}
