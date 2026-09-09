@@ -6,3 +6,14 @@ my name is mobin
 # CODE
 
 inline `block`
+
+
+```
+const mobin = 'amin'
+
+let object = {
+    name:'mobin',
+    lastname:'rezaee'
+}
+
+``` 
